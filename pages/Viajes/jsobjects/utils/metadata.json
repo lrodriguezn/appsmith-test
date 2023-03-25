@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Viajes",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Viajes_utils",
+  "deleted": false,
+  "gitSyncId": "63307701c85ec46372f31255_635ea5b10264ba459f17504c"
+}

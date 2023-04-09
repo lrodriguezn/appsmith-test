@@ -41,7 +41,7 @@
   "color": "#E3DEFF",
   "icon": "bus",
   "unpublishedAppLayout": {
-    "type": "MOBILE"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
     "type": "MOBILE"

@@ -182,7 +182,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 50,
+              "leftColumn": 58,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -2255,7 +2255,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 50,
+              "rightColumn": 38,
               "dynamicHeight": "FIXED",
               "widgetId": "s7kxumu4x3",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",

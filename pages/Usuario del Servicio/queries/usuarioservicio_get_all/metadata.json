@@ -39,7 +39,7 @@
         },
         {
           "key": "searchoption",
-          "value": "{{chk_busqueda.selectedValues}}"
+          "value": "{{cmb_busquedas.selectedOptionValues}}"
         },
         {
           "key": "searchtext",
@@ -77,7 +77,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "chk_busqueda.selectedValues",
+      "cmb_busquedas.selectedOptionValues",
       "tbl_usuarioservicio.pageNo",
       "tbl_usuarioservicio.pageSize",
       "tbl_usuarioservicio.searchText"

@@ -2,6 +2,7 @@
   "unpublishedPage": {
     "name": "Usuario del Servicio",
     "slug": "usuario-del-servicio",
+    "customSlug": "",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +14,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 820,
+          "bottomRow": 860,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -45,7 +46,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 59,
+              "leftColumn": 53,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -79,7 +80,7 @@
               "iconSVG": "/static/media/icon.ecb3847950c4515966ef642a32758afb.svg",
               "labelText": "Busqueda por",
               "topRow": 8,
-              "bottomRow": 12,
+              "bottomRow": 16,
               "parentRowSpace": 10,
               "labelWidth": 5,
               "type": "CHECKBOX_GROUP_WIDGET",
@@ -149,7 +150,7 @@
               "isVisible": true,
               "version": 2,
               "parentId": "0",
-              "labelAlignment": "left",
+              "labelAlignment": "right",
               "renderMode": "CANVAS",
               "isLoading": false,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
@@ -246,7 +247,7 @@
                       "text": "Listado de Remitentes y Destinatarios",
                       "key": "gbfdctoduz",
                       "labelTextSize": "0.875rem",
-                      "rightColumn": 31,
+                      "rightColumn": 64,
                       "textAlign": "LEFT",
                       "dynamicHeight": "FIXED",
                       "widgetId": "8la6b4bpif",
@@ -299,7 +300,7 @@
               "multiRowSelection": false,
               "isVisibleDownload": true,
               "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
-              "topRow": 12,
+              "topRow": 16,
               "isSortable": true,
               "onPageChange": "{{usuarioservicio_get_all.run()}}",
               "type": "TABLE_WIDGET_V2",
@@ -416,7 +417,7 @@
               "dynamicPropertyPathList": [],
               "compactMode": "SHORT",
               "displayName": "Table",
-              "bottomRow": 82,
+              "bottomRow": 86,
               "columnWidthMap": {
                 "task": 245,
                 "step": 62,
@@ -1714,7 +1715,7 @@
     ],
     "userPermissions": [],
     "policies": [],
-    "isHidden": false
+    "isHidden": true
   },
   "deleted": false,
   "gitSyncId": "63307701c85ec46372f31255_63307701c85ec46372f31257"

@@ -46,7 +46,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 55,
+              "leftColumn": 52,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -142,7 +142,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 55,
+              "rightColumn": 52,
               "defaultSelectedValues": "",
               "dynamicHeight": "FIXED",
               "widgetId": "7k5hs3gkju",
@@ -1715,7 +1715,7 @@
     ],
     "userPermissions": [],
     "policies": [],
-    "isHidden": true
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "63307701c85ec46372f31255_63307701c85ec46372f31257"

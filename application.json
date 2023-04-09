@@ -27,7 +27,7 @@
   },
   "publishedApplicationDetail": {
     "navigationSetting": {
-      "showNavbar": false,
+      "showNavbar": true,
       "orientation": "top",
       "navStyle": "stacked",
       "position": "static",
@@ -44,7 +44,7 @@
     "type": "FLUID"
   },
   "publishedAppLayout": {
-    "type": "MOBILE"
+    "type": "FLUID"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],

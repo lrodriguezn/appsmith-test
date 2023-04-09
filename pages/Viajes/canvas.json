@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 880,
+          "bottomRow": 830,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -26,63 +26,6 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
-            {
-              "boxShadow": "none",
-              "widgetName": "txt_nombreCopy",
-              "displayName": "Input",
-              "iconSVG": "/static/media/icon.9f505595da61a34f563dba82adeb06ec.svg",
-              "searchTags": [
-                "form",
-                "text input",
-                "number",
-                "textarea"
-              ],
-              "topRow": 84,
-              "bottomRow": 88,
-              "parentRowSpace": 10,
-              "labelWidth": "15",
-              "autoFocus": false,
-              "type": "INPUT_WIDGET_V2",
-              "hideCard": false,
-              "animateLoading": true,
-              "parentColumnSpace": 6.9375,
-              "dynamicTriggerPathList": [],
-              "resetOnSubmit": true,
-              "leftColumn": 1,
-              "dynamicBindingPathList": [
-                {
-                  "key": "accentColor"
-                },
-                {
-                  "key": "borderRadius"
-                },
-                {
-                  "key": "defaultText"
-                }
-              ],
-              "labelPosition": "Left",
-              "labelStyle": "",
-              "inputType": "TEXT",
-              "placeholderText": "Nombres y Apellidos",
-              "isDisabled": false,
-              "key": "t00rp8wi3q",
-              "labelTextSize": "0.875rem",
-              "isRequired": true,
-              "isDeprecated": false,
-              "rightColumn": 63,
-              "widgetId": "lks0v6fnpw",
-              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-              "isVisible": true,
-              "label": "",
-              "version": 2,
-              "parentId": "0",
-              "labelAlignment": "left",
-              "renderMode": "CANVAS",
-              "isLoading": false,
-              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "iconAlign": "left",
-              "defaultText": "{{appsmith.store.usuarioservicio.Nombre}}"
-            },
             {
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "widgetName": "Container7",
@@ -239,7 +182,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 58,
+              "leftColumn": 49,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -937,7 +880,7 @@
               "topRow": 8,
               "bottomRow": 12,
               "parentRowSpace": 10,
-              "labelWidth": "5",
+              "labelWidth": "8",
               "type": "CHECKBOX_GROUP_WIDGET",
               "hideCard": false,
               "isSelectAll": true,
@@ -1000,12 +943,12 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 57,
+              "rightColumn": 49,
               "defaultSelectedValues": "",
               "dynamicHeight": "FIXED",
               "widgetId": "gt6h76cae4",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-              "isVisible": true,
+              "isVisible": false,
               "version": 2,
               "parentId": "0",
               "labelAlignment": "left",

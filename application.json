@@ -14,6 +14,19 @@
   "unreadCommentThreads": 0,
   "unpublishedApplicationDetail": {
     "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": false
+    }
+  },
+  "publishedApplicationDetail": {
+    "navigationSetting": {
       "showNavbar": false,
       "orientation": "top",
       "navStyle": "stacked",
@@ -28,10 +41,10 @@
   "color": "#E3DEFF",
   "icon": "bus",
   "unpublishedAppLayout": {
-    "type": "MOBILE"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "MOBILE"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],

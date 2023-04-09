@@ -46,7 +46,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 52,
+              "leftColumn": 48,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -142,12 +142,12 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 52,
+              "rightColumn": 48,
               "defaultSelectedValues": "",
               "dynamicHeight": "FIXED",
               "widgetId": "7k5hs3gkju",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-              "isVisible": true,
+              "isVisible": false,
               "version": 2,
               "parentId": "0",
               "labelAlignment": "left",
@@ -155,7 +155,7 @@
               "isLoading": false,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "isInline": true,
+              "isInline": false,
               "minDynamicHeight": 4
             },
             {

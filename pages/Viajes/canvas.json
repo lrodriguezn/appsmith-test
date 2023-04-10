@@ -183,7 +183,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 55,
+              "leftColumn": 58,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"

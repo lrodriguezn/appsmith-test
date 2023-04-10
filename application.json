@@ -41,10 +41,10 @@
   "color": "#E3DEFF",
   "icon": "bus",
   "unpublishedAppLayout": {
-    "type": "MOBILE"
+    "type": "TABLET_LARGE"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "MOBILE"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],

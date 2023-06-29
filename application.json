@@ -13,23 +13,13 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    },
     "navigationSetting": {
       "showNavbar": true,
-      "orientation": "top",
-      "navStyle": "stacked",
-      "position": "static",
-      "itemStyle": "text",
-      "colorStyle": "light",
-      "logoAssetId": "",
-      "logoConfiguration": "logoAndApplicationTitle",
-      "showSignIn": false
-    }
-  },
-  "publishedApplicationDetail": {
-    "navigationSetting": {
-      "showNavbar": true,
-      "orientation": "top",
-      "navStyle": "stacked",
+      "orientation": "side",
+      "navStyle": "sidebar",
       "position": "static",
       "itemStyle": "text",
       "colorStyle": "light",
@@ -41,10 +31,10 @@
   "color": "#E3DEFF",
   "icon": "bus",
   "unpublishedAppLayout": {
-    "type": "TABLET_LARGE"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
-    "type": "MOBILE"
+    "type": "TABLET_LARGE"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
